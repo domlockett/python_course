@@ -1,3 +1,0 @@
-This is how you load a file.
-
-You are doing great!
