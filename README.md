@@ -1,7 +1,7 @@
 # Python Course
 
 ## Overview
-This Python course is geared toward public health graduate students, introducing them to data analysis. The course is designed to build foundational skills and apply them to real-world public health data analysis. Each class builds on the previous one for a smooth learning experience.
+This Python course was geared toward public health graduate students, introducing them to data analysis. The course was designed to build foundational skills and apply them to real-world public health data analysis. Each class builds on the previous one for a smooth learning experience.
 
 **Teaching Strategies:**
 - **Clear Explanations:** Concepts are made simple and easy to understand.
@@ -10,9 +10,7 @@ This Python course is geared toward public health graduate students, introducing
 - **Step-by-Step Learning:** Gradually increases complexity from basic to advanced levels.
 - **Supportive Environment:** Provides continuous feedback and assistance to students.
 
-For more detailed content, visit the repository [here](https://github.com/domlockett/python_course).
-
-### Brief course outline
+## Brief course outline
 
 ### Week 01: Introduction to Python
 **Concepts Covered:**
